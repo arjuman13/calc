@@ -1,0 +1,38 @@
+.box{
+    background-color: rgba(96, 243, 243, 0.397);
+    height:500vh;
+    margin:0 auto;
+    padding: 50px;
+    text-align: center;
+}
+h1{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:45px;
+    color:#f35491;
+}
+
+p {
+
+    color:darkred;
+    font-size: 30px;
+    font-family: italics;
+    font-style: bold;
+}
+
+.box h2{
+    color:#df0559;
+    font-family: Helvetica, 'Times New Roman', Times,sans-serif;
+    font-size:30px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    color: rgba(235, 93, 100, 0.808);
+    text-transform: uppercase;
+}
+.box ul {
+
+    color:rgb(112, 32, 32);
+    font-size: 30px;
+    font-family: italics;
+}
